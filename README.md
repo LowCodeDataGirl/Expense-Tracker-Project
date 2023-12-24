@@ -28,7 +28,7 @@ Replace `https://github.com/your-username/expense-tracker.git` with your reposit
 To run the Expense Tracker application, follow these steps:
 
 1. Ensure you are in the project's root directory.
-2. Run the application using Python: `python main.py`
+2. Run the application using Python: `python expenses.py`
 
 Replace `main.py` with the name of your Python script if it's different.
 
